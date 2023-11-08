@@ -21,6 +21,8 @@
     <img height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">  
     <img height="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg">
     <img height="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+    <img height="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    
   </div>
 </body>
 
