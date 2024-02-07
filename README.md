@@ -1,7 +1,7 @@
 
 <body style="background:red;">
   <h1>
-   Oi, Seja Bem vindo 🤘🖖
+   Oi, Seja Bem vindo 🤘
   </h1>
   <p>  
    💻 Trabalhando com: Web-development
