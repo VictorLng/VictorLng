@@ -4,11 +4,11 @@
    Oi, Seja Bem vindo 🤘
   </h1>
   <p>  
-   💻 Trabalhando com: Dev FullStack
+   💻 Dev BackEnd
    <br>  
-   📕 Estudando: Programação, Sistemas Operaçionais, Compiladores, Mobile
+   📕 Estudando: Design paterns, AWS e Compiladores
    <br>
-   😄 Gosto de: Jogar, Programar, Ler
+   😄 Gosto de: Jogar, Ler
    <br>
    🧠Cursando: Ciencia da computação
   </p>
