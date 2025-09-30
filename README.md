@@ -23,7 +23,7 @@
     <img height="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img height="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
     <img height="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
-    <img height="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/go.svg" />
+    <img height="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
    
   </div>
 </body>
